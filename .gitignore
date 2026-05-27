@@ -1,0 +1,20 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Obsidian cache / local runtime files
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+
+# Git / backup temp files
+*.bak
+*.backup
+*.orig

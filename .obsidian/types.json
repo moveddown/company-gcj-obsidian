@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "状态": "multitext",
+    "记录时间": "datetime"
+  }
+}
