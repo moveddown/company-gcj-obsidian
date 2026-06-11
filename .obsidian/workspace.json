@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 理论支持和基础/06 算法与结构/02 状态机.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 理论支持和基础/03 建模知识/01 建模一些基础知识.md",
+                "file": "02 理论支持和基础/06 算法与结构/02 状态机.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01 建模一些基础知识 的大纲"
+              "title": "02 状态机 的大纲"
             }
           },
           {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
